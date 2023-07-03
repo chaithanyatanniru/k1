@@ -25,3 +25,5 @@ fi
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
+
+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
